@@ -1,0 +1,59 @@
+2022-05-22 10:48:42,279 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-05-22 10:49:14,887 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mz.co.dimasoft:dimasoft-dsmovie-backend:0.0.1-SNAPSHOT @ C:\Users\user\Documents\desenvolvimento\workspaces\vscode\devsuperior\projecto\dsmovie\dimasoft-dsmovie-backend\pom.xml.
+2022-05-22 10:49:20,045 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dimasoft-dsmovie-backend/src/main/java
+2022-05-22 10:49:20,046 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dimasoft-dsmovie-backend/src/main/resources
+2022-05-22 10:49:20,053 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dimasoft-dsmovie-backend/src/main/resources
+2022-05-22 10:49:20,061 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dimasoft-dsmovie-backend/src/test/java
+2022-05-22 10:49:23,973 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2022-05-22 10:49:25,436 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:49:25,437 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-22 10:49:25,442 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-22 10:49:25,465 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-22 10:49:25,469 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:49:25,469 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-22 10:49:25,469 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user\Documents\desenvolvimento\workspaces\vscode\devsuperior\projecto\dsmovie\dimasoft-dsmovie-backend\src\test\resources
+2022-05-22 10:49:43,639 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:49:43,640 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-22 10:49:43,643 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-22 10:49:43,644 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-22 10:49:43,647 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:49:43,647 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-22 10:49:43,648 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user\Documents\desenvolvimento\workspaces\vscode\devsuperior\projecto\dsmovie\dimasoft-dsmovie-backend\src\test\resources
+2022-05-22 10:51:38,583 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mz.co.dimasoft:dimasoft-dsmovie-backend:0.0.1-SNAPSHOT @ C:\Users\user\Documents\desenvolvimento\workspaces\vscode\devsuperior\projecto\dsmovie\dimasoft-dsmovie-backend\pom.xml.
+2022-05-22 10:51:39,928 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:51:39,931 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-22 10:51:39,932 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-22 10:51:39,936 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:51:39,937 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user\Documents\desenvolvimento\workspaces\vscode\devsuperior\projecto\dsmovie\dimasoft-dsmovie-backend\src\test\resources
+2022-05-22 10:51:50,024 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-22 10:51:50,464 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mz.co.dimasoft:dimasoft-dsmovie-backend:0.0.1-SNAPSHOT @ C:\Users\user\Documents\desenvolvimento\workspaces\vscode\devsuperior\projecto\dsmovie\dimasoft-dsmovie-backend\pom.xml.
+2022-05-22 10:51:51,111 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dimasoft-dsmovie-backend/src/main/java
+2022-05-22 10:51:51,113 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dimasoft-dsmovie-backend/src/main/resources
+2022-05-22 10:51:51,114 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dimasoft-dsmovie-backend/src/main/resources
+2022-05-22 10:51:51,115 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dimasoft-dsmovie-backend/src/test/java
+2022-05-22 10:51:51,601 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-05-22 10:51:52,414 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:51:52,418 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-22 10:51:52,434 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-22 10:51:52,437 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:51:52,437 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user\Documents\desenvolvimento\workspaces\vscode\devsuperior\projecto\dsmovie\dimasoft-dsmovie-backend\src\test\resources
+2022-05-22 10:57:47,539 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mz.co.dimasoft:dimasoft-dsmovie-backend:0.0.1-SNAPSHOT @ C:\Users\user\Documents\desenvolvimento\workspaces\vscode\devsuperior\projecto\dsmovie\dimasoft-dsmovie-backend\pom.xml.
+2022-05-22 10:57:48,512 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:57:48,512 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-22 10:57:48,516 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-22 10:57:48,517 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-22 10:57:48,521 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:57:48,521 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-22 10:57:48,521 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user\Documents\desenvolvimento\workspaces\vscode\devsuperior\projecto\dsmovie\dimasoft-dsmovie-backend\src\test\resources
+2022-05-22 10:58:10,498 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-22 10:58:11,017 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mz.co.dimasoft:dimasoft-dsmovie-backend:0.0.1-SNAPSHOT @ C:\Users\user\Documents\desenvolvimento\workspaces\vscode\devsuperior\projecto\dsmovie\dimasoft-dsmovie-backend\pom.xml.
+2022-05-22 10:58:11,799 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dimasoft-dsmovie-backend/src/main/java
+2022-05-22 10:58:11,799 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dimasoft-dsmovie-backend/src/main/resources
+2022-05-22 10:58:11,800 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dimasoft-dsmovie-backend/src/main/resources
+2022-05-22 10:58:11,801 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dimasoft-dsmovie-backend/src/test/java
+2022-05-22 10:58:12,147 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-05-22 10:58:12,774 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 10:58:12,775 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-22 10:58:12,775 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-22 10:58:12,799 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-22 10:58:12,802 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
